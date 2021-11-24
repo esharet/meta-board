@@ -1,0 +1,6 @@
+[submodule "meta-tegra"]
+	path = meta-tegra
+	url = https://github.com/esharet/meta-tegra.git
+[submodule "meta-cti"]
+	path = meta-cti
+	url = https://github.com/esharet/meta-cti.git

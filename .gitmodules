@@ -4,3 +4,9 @@
 [submodule "meta-cti"]
 	path = meta-cti
 	url = https://github.com/esharet/meta-cti.git
+[submodule "meta-boot2qt"]
+	path = meta-boot2qt
+	url = git://code.qt.io/yocto/meta-boot2qt.git
+[submodule "meta-linux-cti"]
+	path = meta-linux-cti
+	url = https://github.com/esharet/linux-tegra-4.9
